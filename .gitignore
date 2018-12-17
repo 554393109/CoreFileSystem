@@ -11,8 +11,6 @@ desktop.ini
 ########### 根目录 ###########
 
 
-########### /SRC ###########
-# /SRC/*/.vs
 
 ########### /SRC/* ###########
 /SRC/*/.vs
@@ -20,11 +18,14 @@ desktop.ini
 /SRC/*/*/bin
 /SRC/*/*/obj
 
-########### /SDK ###########
-# /SDK/*/.vs
-
 ########### /SDK/* ###########
 /SDK/*/.vs
 /SDK/*/packages
 /SDK/*/*/bin
 /SDK/*/*/obj
+
+########### /Tools/* ###########
+/Tools/*/.vs
+/Tools/*/packages
+/Tools/*/*/bin
+/Tools/*/*/obj
